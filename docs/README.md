@@ -1,7 +1,7 @@
 # Installation
 
 # Test Creation and Execution
-## Test Template
+## [Test Template](test_template.md)
 ## DropSuite
 ## NewSuite
 ## RenameSuite
